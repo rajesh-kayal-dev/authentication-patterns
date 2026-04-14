@@ -36,3 +36,6 @@ npm run dev
 2. Verify email  
 3. Login → get token  
 4. Access protected routes  
+
+## Update
+Improved project documentation
